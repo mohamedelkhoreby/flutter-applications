@@ -1,2 +1,3 @@
 # flutter-applications
-the small application write by flutter 
+the small filtter application as a exercise by The Complete Flutter Development Guide [2022 Edition] cousre in udemy.com
+  
